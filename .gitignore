@@ -10,6 +10,8 @@
 
 # production
 /build
+# parameters
+.env
 
 # misc
 .DS_Store
