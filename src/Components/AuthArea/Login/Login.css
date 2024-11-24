@@ -1,0 +1,39 @@
+.Login > form {
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    display: inline-block;
+    margin: 50px auto;
+    color: white;
+}
+
+.Login .TextBox, .Btn{
+    width: 100%;
+    margin: 20px 0;
+    color: white;
+    cursor: pointer;
+}
+
+.Login .Btn {
+    height: 40px;
+    width: 120px;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    border: solid 1px rebeccapurple;
+    border-radius: 5px;
+    color:white;
+    font-size: medium;
+} 
+
+.Login h2 {
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+}
+
+.Login .SpanMessage {
+    color: red;
+    margin: 40px 0;
+    position: absolute;
+}

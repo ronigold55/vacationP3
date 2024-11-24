@@ -1,0 +1,14 @@
+.ExportCsv>a{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    color: white;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+
+.FollowersChart {
+    margin-top: 20px;
+}
+
